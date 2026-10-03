@@ -1,0 +1,49 @@
+{
+  "homeTab": {
+    "label": "Home",
+    "icon": "home_outlined",
+    "title": "Home",
+    "greetingEnabled": true,
+    "heroRotationSeconds": 5,
+    "slides": [
+      {
+        "image": "https://raw.githubusercontent.com/vibin-launcher/vibin-launcher-release/main/launcher-content/images/hero_banner.png",
+        "imageFit": "cover",
+        "category": "LAUNCHER",
+        "title": "VIBIN Launcher",
+        "description": "VIBIN Launcher — launcher unifié avec backend embarqué, réseau privé Tailscale et synchronisation des paramètres entre toutes tes versions.",
+        "buttonLabel": "GitHub VIBIN",
+        "buttonUrl": "https://github.com/vibin-launcher"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/vibin-launcher/vibin-launcher-release/main/launcher-content/images/vibin_apps.png",
+        "imageFit": "contain",
+        "category": "SPOTLIGHT SUBMISSION",
+        "title": "VIBIN Tutorial",
+        "description": "Watch this YouTube tutorial to learn how to use VIBIN, made by Nova (@someth9ng)!",
+        "buttonLabel": "Watch Video",
+        "buttonUrl": "https://www.youtube.com/watch?v=a9ohl7o3c7U"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/vibin-launcher/vibin-launcher-release/main/launcher-content/images/rev.png",
+        "imageFit": "contain",
+        "category": "SPOTLIGHT SUBMISSION",
+        "title": "Featured Video",
+        "description": "Monstera - Mona Vera (@vzbw)!",
+        "buttonLabel": "Watch Video",
+        "buttonUrl": "https://www.youtube.com/watch?v=sVav-UtlDHw"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/vibin-launcher/vibin-launcher-release/main/launcher-content/images/discord.webp",
+        "imageFit": "cover",
+        "category": "COMMUNITY",
+        "title": "VIBIN Discord",
+        "description": "Join the VIBIN discord for more resources, news and updates!",
+        "buttonLabel": "Join VIBIN Discord",
+        "buttonUrl": "https://discord.gg/syNgzz9Yry"
+      }
+    ],
+    "cards": []
+  },
+  "tabs": []
+}
