@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.0.1/VIBIN_Launcher_Setup-1.0.1.exe",
-    "sha256":  "2b6b7345fb7e7e1dcb95a8945b3863fcebd5907ec416c02854e1d67f7489e840",
-    "notes":  "VIBIN Launcher 1.0.1",
-    "publishedAt":  "2026-10-11T11:11:38Z",
-    "fileName":  "VIBIN_Launcher_Setup-1.0.1.exe"
+    "version":  "1.0.2",
+    "url":  "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.0.2/VIBIN_Launcher_Setup-1.0.2.exe",
+    "sha256":  "551868a7437ebd5df55c0b8420b5c2e55a2a894ce82024e933e5f3f4e869e80b",
+    "notes":  "",
+    "publishedAt":  "2026-10-11T15:01:26Z",
+    "fileName":  "VIBIN Launcher Setup-1.0.2.exe"
 }
