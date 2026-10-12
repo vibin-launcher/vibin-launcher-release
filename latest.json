@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "url": "https://vibin-updates.idols-launcher.workers.dev/dl/releases/1.0.3/VIBIN_Launcher_Setup-1.0.3.exe",
-  "sha256": "3da627f0fbc09f66afe9495bcdceeeb0b2649185483af8ab0a18c07622af9bea",
-  "notes": "VIBIN Launcher 1.0.3 — Tailscale self-cleanup (auto-prune des vieux devices a l'enroll)",
-  "publishedAt": "2026-10-12T14:06:26Z",
-  "fileName": "VIBIN_Launcher_Setup-1.0.3.exe"
+  "version": "1.0.4",
+  "url": "https://vibin-updates.idols-launcher.workers.dev/dl/releases/1.0.4/VIBIN_Launcher_Setup-1.0.4.exe",
+  "sha256": "31b3b63b9822fafdb30104f51e5dd170c3c0823bc5aa2849580cc3fd92e3706e",
+  "notes": "VIBIN Launcher 1.0.4 — hotfix paks (token GitHub restaure) + Tailscale self-cleanup",
+  "publishedAt": "2026-10-12T14:15:20Z",
+  "fileName": "VIBIN_Launcher_Setup-1.0.4.exe"
 }
