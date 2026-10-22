@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "url": "https://vibin-updates.idols-launcher.workers.dev/dl/releases/1.0.4/VIBIN_Launcher_Setup-1.0.4.exe",
-  "sha256": "31b3b63b9822fafdb30104f51e5dd170c3c0823bc5aa2849580cc3fd92e3706e",
-  "notes": "VIBIN Launcher 1.0.4 — hotfix paks (token GitHub restaure) + Tailscale self-cleanup",
-  "publishedAt": "2026-10-12T14:15:20Z",
-  "fileName": "VIBIN_Launcher_Setup-1.0.4.exe"
+    "version":  "1.1.2",
+    "url":  "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.2/VIBIN%20Launcher%20Setup-1.1.2.exe",
+    "sha256":  "499590dbd5ec43f498857e0dd46c03cd60e01847e7aff8dc1728927cd87f0892",
+    "notes":  "Miroir 21.51 self-heberge + Verify + patch embarque",
+    "publishedAt":  "2026-10-22T05:46:20Z",
+    "fileName":  "VIBIN Launcher Setup-1.1.2.exe"
 }
