@@ -1,8 +1,8 @@
 {
   "version": "1.1.7",
-  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.7/VIBIN_Launcher_Setup-1.1.7.exe",
+  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.7/VIBIN.Launcher.Setup-1.1.7.exe",
   "sha256": "da0c8efeb681fd80b6bd2b598bc31ce2e6f4e62be0aae40d23a8c8b2bce675f9",
   "notes": "Fix shipped builds missing clips/profile defines (Post clip dead, profile uploads failed, signed content untrusted).",
   "publishedAt": "2026-10-25T14:42:20Z",
-  "fileName": "VIBIN_Launcher_Setup-1.1.7.exe"
+  "fileName": "VIBIN.Launcher.Setup-1.1.7.exe"
 }
