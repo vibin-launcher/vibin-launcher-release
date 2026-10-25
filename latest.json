@@ -1,8 +1,8 @@
 {
-    "version": "1.1.6",
-    "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.6/VIBIN.Launcher.Setup-1.1.6.exe",
-    "sha256": "3baa2e0dc677ec9846cc589133ce69d1b3e7b7487f318286b5fc576382128a4f",
-    "notes": "VIBIN Launcher 1.1.6 - 21.51 install: third mirror source via update-worker proxy (public GitHub -> worker -> private).",
-    "publishedAt": "2026-10-25T15:10:00Z",
-    "fileName": "VIBIN.Launcher.Setup-1.1.6.exe"
+  "version": "1.1.7",
+  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.7/VIBIN_Launcher_Setup-1.1.7.exe",
+  "sha256": "da0c8efeb681fd80b6bd2b598bc31ce2e6f4e62be0aae40d23a8c8b2bce675f9",
+  "notes": "Fix shipped builds missing clips/profile defines (Post clip dead, profile uploads failed, signed content untrusted).",
+  "publishedAt": "2026-10-25T14:42:20Z",
+  "fileName": "VIBIN_Launcher_Setup-1.1.7.exe"
 }
