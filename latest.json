@@ -1,8 +1,8 @@
 {
-    "version": "1.1.5",
-    "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.5/VIBIN.Launcher.Setup-1.1.5.exe",
-    "sha256": "e7a53ff4e09288402304ec915c07976e18ec28652c8ed83e2091a9b55fd94533",
-    "notes": "VIBIN Launcher 1.1.5 - 21.51 install: public backup mirror + dead-link fail-fast (fixes HTTP 410); backend hardening (path confinement, browser shield, signed mail, DPAPI keys, mailbox cap); uninstaller cleanup; firewall scoping.",
-    "publishedAt": "2026-10-25T13:09:30Z",
-    "fileName": "VIBIN.Launcher.Setup-1.1.5.exe"
+    "version": "1.1.6",
+    "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.6/VIBIN.Launcher.Setup-1.1.6.exe",
+    "sha256": "3baa2e0dc677ec9846cc589133ce69d1b3e7b7487f318286b5fc576382128a4f",
+    "notes": "VIBIN Launcher 1.1.6 - 21.51 install: third mirror source via update-worker proxy (public GitHub -> worker -> private).",
+    "publishedAt": "2026-10-25T15:10:00Z",
+    "fileName": "VIBIN.Launcher.Setup-1.1.6.exe"
 }
