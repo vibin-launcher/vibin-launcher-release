@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.7/VIBIN.Launcher.Setup-1.1.7.exe",
-  "sha256": "da0c8efeb681fd80b6bd2b598bc31ce2e6f4e62be0aae40d23a8c8b2bce675f9",
-  "notes": "Fix shipped builds missing clips/profile defines (Post clip dead, profile uploads failed, signed content untrusted).",
-  "publishedAt": "2026-10-25T14:42:20Z",
-  "fileName": "VIBIN.Launcher.Setup-1.1.7.exe"
+  "version": "1.1.9",
+  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.1.9/VIBIN.Launcher.Setup-1.1.9.exe",
+  "sha256": "90b8665253623847e11cf31996cfcc2f697a040a6cf67a3196dcdb5718e20935",
+  "notes": "Shared-quota fix: display reads via worker edge cache; writes direct+relay failover. Includes 1.1.8 tombstone-order + relay fixes.",
+  "publishedAt": "2026-10-25T16:20:00Z",
+  "fileName": "VIBIN.Launcher.Setup-1.1.9.exe"
 }
