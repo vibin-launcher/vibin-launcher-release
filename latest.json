@@ -1,8 +1,8 @@
 {
   "version": "1.2.2",
-  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.2.2/VIBIN%20Launcher%20Setup-1.2.2.exe",
+  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.2.2/VIBIN.Launcher.Setup-1.2.2.exe",
   "sha256": "d9de0b8a3e008c55ab6739de410207cbe380014668d59a2d395e26ba5a3cc131",
   "notes": "Community transport groundwork (dormant). Legacy GitHub path unchanged and active.",
   "publishedAt": "2026-10-26T23:18:08Z",
-  "fileName": "VIBIN Launcher Setup-1.2.2.exe"
+  "fileName": "VIBIN.Launcher.Setup-1.2.2.exe"
 }
