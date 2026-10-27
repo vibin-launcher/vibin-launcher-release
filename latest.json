@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.2.2/VIBIN.Launcher.Setup-1.2.2.exe",
-  "sha256": "d9de0b8a3e008c55ab6739de410207cbe380014668d59a2d395e26ba5a3cc131",
-  "notes": "Community transport groundwork (dormant). Legacy GitHub path unchanged and active.",
-  "publishedAt": "2026-10-26T23:18:08Z",
-  "fileName": "VIBIN.Launcher.Setup-1.2.2.exe"
+  "version": "1.2.3",
+  "url": "https://github.com/vibin-launcher/vibin-launcher-release/releases/download/v1.2.3/VIBIN.Launcher.Setup-1.2.3.exe",
+  "sha256": "b366b31c7a7cbf22aba9bb3f8c8e0dd34a598e5c865f590f4c8d87946e463b77",
+  "notes": "Clips relay moved to the dedicated Cloudflare account (updates/Tailscale no longer share its quota).",
+  "publishedAt": "2026-10-27T22:17:49Z",
+  "fileName": "VIBIN.Launcher.Setup-1.2.3.exe"
 }
